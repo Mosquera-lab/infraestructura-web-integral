@@ -12,6 +12,8 @@ Organización sugerida:
 <img width="1463" height="121" alt="image" src="https://github.com/user-attachments/assets/084738ad-0184-4c93-b4ec-d775d34000c4" />
 
 - ssh_conexion.png
+<img width="727" height="248" alt="image" src="https://github.com/user-attachments/assets/57d4f1e2-a12b-4824-b43f-8acb425705a1" />
+
 - sftp_transferencia.png
 - sftp_descarga.png
 - mariadb_base_datos.png
