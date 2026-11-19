@@ -96,3 +96,4 @@ La documentación permite reproducir las comprobaciones y comprender el propósi
 - [DuckDNS](https://www.duckdns.org/)
 - [GitHub Pages](https://pages.github.com/)
 - [Documentación de GitHub Pages](https://docs.github.com/en/pages)
+- https://chatgpt.com/
