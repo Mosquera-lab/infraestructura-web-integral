@@ -15,6 +15,8 @@ Organización sugerida:
 <img width="727" height="248" alt="image" src="https://github.com/user-attachments/assets/57d4f1e2-a12b-4824-b43f-8acb425705a1" />
 
 - sftp_transferencia.png
+<img width="858" height="521" alt="image" src="https://github.com/user-attachments/assets/4bab2db5-27cc-4f79-975b-70837c1e1a99" />
+
 - sftp_descarga.png
 - mariadb_base_datos.png
 - mariadb_consulta.png
