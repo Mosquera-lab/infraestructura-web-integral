@@ -20,6 +20,8 @@ Organización sugerida:
 <img width="272" height="47" alt="image" src="https://github.com/user-attachments/assets/07496ff7-ee46-4f1c-85ae-d6d7256b016a" />
 
 - sftp_descarga.png
+<img width="1417" height="145" alt="image" src="https://github.com/user-attachments/assets/123bc144-de4d-41fc-83ae-e7db00791647" />
+
 - mariadb_base_datos.png
 - mariadb_consulta.png
 - telnet_prueba.png
