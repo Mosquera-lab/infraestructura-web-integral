@@ -17,4 +17,3 @@ Organización sugerida:
 - dns_resolucion.png
 - github_pages.png
 
-Las capturas deben corresponder a resultados reales. Antes de subirlas, verificar que no contengan contraseñas, tokens, credenciales o datos privados.
